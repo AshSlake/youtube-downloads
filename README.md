@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.pinimg.com/736x/4f/59/d8/4f59d89c7e78fd1614f1e527c5ecc3ce.jpg" alt="bot_trader" width="287" class="rounded-profile">
+</div>
+
+
 # NextTube Downloader 🚀🎥
 
 O **NextTube Downloader** é uma aplicação em Python com interface gráfica feita em Tkinter que permite baixar vídeos e áudios do YouTube de forma prática e intuitiva!
